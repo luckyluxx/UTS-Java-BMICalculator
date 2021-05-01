@@ -1,2 +1,5 @@
 # UTS-Java-BMICalculator
-UTS Java Semester 2 BMI Calculator
+--Lucky Ardiansyah
+--Fakultas Teknologi Informasi
+--Universitas Merdeka Malang
+--2021
